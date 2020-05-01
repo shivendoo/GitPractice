@@ -15,5 +15,6 @@ public class MyController {
 		System.out.println("This is callIndexjsp method ****");
 		return "index.jsp";
 	}
+	System.out.println("This is End of Class MyController ****");
 	
 }
